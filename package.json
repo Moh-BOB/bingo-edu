@@ -1,0 +1,16 @@
+{
+    "name": "Bingo-edu-website",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "homepage": "https://mohbob.github.io/bingo-edu",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^3.1.0"
+    }
+}
